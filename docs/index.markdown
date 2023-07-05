@@ -8,8 +8,5 @@ title: Home
 
 # Jennifer's Abode
 
-<<<<<<< HEAD
-Welcome! This is my first website built with GitHub pages and Jekyll. Props to all the tutorials out there!
 =======
 Welcome! This is my first website built with GitHub pages and Jekyll. Props to all the tutorials out there!  
->>>>>>> ae39a5b (updated home)
