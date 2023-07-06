@@ -12,4 +12,4 @@ Welcome! This is my first website built with GitHub pages and Jekyll. Props to a
 
 Feel free to explore my mind by clicking the links below:
 
-[About](jnfh314.github.io/about/)
+[About](/about/)
