@@ -2,4 +2,4 @@
 
 jennifer's abode :)
 
-here's the addy: [jnfh314.github.io](jnfh314.github.io)
+here's the addy: [jnfh314.github.io](https://jnfh314.github.io)
