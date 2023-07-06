@@ -9,3 +9,7 @@ title: Home
 # Jennifer's Abode
 
 Welcome! This is my first website built with GitHub pages and Jekyll. Props to all the tutorials out there!  
+
+Feel free to explore my mind by clicking the links below:
+
+[About](jnfh314.github.io/about/)
