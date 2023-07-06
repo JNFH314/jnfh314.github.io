@@ -13,3 +13,5 @@ Welcome! This is my first website built with GitHub pages and Jekyll. Props to a
 Feel free to explore my mind by clicking the links below:
 
 [About](/about/)
+
+[Some food for thought](http://cuberule.com)
