@@ -15,3 +15,5 @@ Feel free to explore my mind by clicking the links below:
 [About](/about/)
 
 [Some food for thought](http://cuberule.com)
+
+[My research profile](https://www.researchgate.net/profile/Jennifer-Huang-20)
