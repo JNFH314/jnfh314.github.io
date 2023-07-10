@@ -3,21 +3,42 @@
   <head>
     <meta charset="utf-8">
     <title>Home</title>
+    <link rel="stylesheet" type="text/css" href="assets/css/style.css">
   </head>
   <body>
     <h1 id="jennifers-abode">Jennifer’s Abode</h1>
 
-    <p>Welcome! This is my first website built with GitHub pages and Jekyll. Props to all the tutorials out there!</p>
+    <header>
+      <nav>
+        <ul>
+          <li><a href="#home">Home</a></li>
+          <li><a href="/about/">About</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+      </nav>
+    </header>
 
-    <p>Please excuse this page's unsiteliness as it undergoes construction. Meanwhile, feel free to explore my mind by clicking the links below:</p>
+    <section id="home">
+      <div class="hero">
+        <p>Welcome! This is my first website built with GitHub pages and Jekyll. Props to all the tutorials out there!</p>
+        <p>Please excuse this page's unsiteliness as it undergoes construction. Meanwhile, feel free to explore my mind by clicking the links below:</p>
+        <p><a href="https://cuberule.com" target="_blank">Some food for thought</a></p>
+        <p><a href="https://www.researchgate.net/profile/Jennifer-Huang-20" target="_blank">My research profile</a></p>
+        <p><a href="https://www.instagram.com/aband_ned.artw_rk/" target="_blank">A work in progress: Art Gallery</a></p>
+      </div>
+    </section>
 
-    <p><a href="/about/">About</a></p>
-
-    <p><a href="https://cuberule.com">Some food for thought</a></p>
-
-    <p><a href="https://www.researchgate.net/profile/Jennifer-Huang-20">My research profile</a></p>
-
-    <p><a href="https://www.instagram.com/aband_ned.artw_rk/">A work in progress: Art Gallery</a></p>
-
+    <section id="contact">
+      <div class="content">
+        <h2>Contact</h2>
+        <form>
+          <input type="text" placeholder="Your Name">
+          <input type="email" placeholder="Your Email">
+          <textarea placeholder="Your Message"></textarea>
+          <button type="submit">Send Message</button>
+        </form>
+      </div>
+    </section>
+    
   </body>
 </html>
