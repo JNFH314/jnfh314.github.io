@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<div class="hero">
+<div class="content">
 
     <a href="/">Back to Home</a>
 
