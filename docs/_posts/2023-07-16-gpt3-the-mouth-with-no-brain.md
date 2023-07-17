@@ -3,7 +3,7 @@ layout: post
 title:  "GPT3: The Mouth With No Brain"
 date: 2023-07-16
 categories: jekyll update
-image: /assets/images/background.jpg
+image: /assets/images/gpt.png
 author: Jennifer Huang
 ---
 

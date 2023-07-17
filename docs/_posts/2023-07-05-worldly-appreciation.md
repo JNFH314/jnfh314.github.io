@@ -3,6 +3,7 @@ layout: post
 title:  "Worldy Appreciation"
 date:   2023-07-05 16:30:49 -0500
 categories: jekyll update
+image: /assets/images/world.jpg
 author: Jennifer Huang
 
 ---
