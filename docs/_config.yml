@@ -29,8 +29,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  JNFH314
 permalink: /:title/
-logo: 'assets/images/squirrel.jpg'
-favicon: 'assets/images/squirrel.jpg'
+logo: '/assets/images/squirrel.jpg'
+favicon: '/assets/images/squirrel.jpg'
 
 # Build settings
 # theme: minima
