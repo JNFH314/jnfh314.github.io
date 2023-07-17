@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Worldy Appreciation"
 date:   2023-06-27 16:30:49 -0500
 categories: jekyll update
 ---

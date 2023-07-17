@@ -1,9 +1,14 @@
+---
+layout: default
+title: Home
+---
+
 <!doctype html>
 <html>
   <head>
     <meta charset="utf-8">
     <title>Home</title>
-    <link rel="stylesheet" type="text/css" href="assets/css/style.css">
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/style.css">
   </head>
 
   <body>
@@ -41,6 +46,15 @@
       <div class="content">
         <h2>Posts</h2>
         <p>Stay tuned!</p>
+        <div class="post-list">
+          {% for post in site.posts %}
+            <a class="post-button" href="{{ post.url }}">
+              <div class="post-image" style="background-image: url('{{ post.image }}')"></div>
+              <h2>{{ post.title }}</h2>
+              <p>{{ post.description }}</p>
+            </a>
+          {% endfor %}
+        </div>
       </div>
     </section>
 
