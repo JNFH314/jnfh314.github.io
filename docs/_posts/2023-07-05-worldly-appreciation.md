@@ -1,29 +1,12 @@
 ---
 layout: post
 title:  "Worldy Appreciation"
-date:   2023-06-27 16:30:49 -0500
+date:   2023-07-05 16:30:49 -0500
 categories: jekyll update
+author: Jennifer Huang
+
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
+I’ve been having a religious (spiritual? or perhaps both?) crisis of sorts lately. 
 
-`YEAR-MONTH-DAY-title.MARKUP`
-
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+The universe is breathtaking, in all its laws and chaos and structure and entropy. Despite my claims that i’m atheist (I am very passionate about STEM (<a href="https://instagram.com/omjee.nnifer" target="_blank">Soup To Eat Mmmm</a>)), I really do believe that there may be a higher power. Some cute little all-powerful being probably created “life” for a class project that they’ve been working really hard on, and (literally) boom: gravity, planets, black holes, stars, and the concept of "everything" that we throw around so casually. Not only is there life within these celestial beings; these celestial beings are alive themselves within the universe. How else would such a majestic entity exist if it weren’t for a higher power?
