@@ -59,6 +59,7 @@ body, h1, h2, h3, p, ul, li, form, input, textarea, button {
   }
 
   .post-button {
+    position: relative;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -81,11 +82,13 @@ body, h1, h2, h3, p, ul, li, form, input, textarea, button {
 
   .post-image {
     width: 100%;
-    height: 200px;
+    height: 300px%;
     background-size: cover;
     background-position: center;
     border-top-left-radius: 8px;
     border-top-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
   }
 
   .post-content {
@@ -118,6 +121,12 @@ body, h1, h2, h3, p, ul, li, form, input, textarea, button {
     white-space: nowrap;
     max-width: 100%;
     text-align: center;
+  }
+
+  .post-button:hover .post-title {
+    white-space: normal;
+    overflow: initial;
+    text-overflow: initial;
   }
 
   .post-description {
