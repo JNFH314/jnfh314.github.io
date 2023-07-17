@@ -165,3 +165,6 @@ body, h1, h2, h3, p, ul, li, form, input, textarea, button {
     color: #fff;
   }
   
+  #article {
+    font-family: Gill Sans, sans-serif;
+  }
