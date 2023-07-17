@@ -123,11 +123,11 @@ body, h1, h2, h3, p, ul, li, form, input, textarea, button {
     text-align: center;
   }
 
-  .post-button:hover .post-title {
+  /* .post-button:hover .post-title {
     white-space: normal;
     overflow: initial;
     text-overflow: initial;
-  }
+  } */
 
   .post-description {
     margin-top: 5px;
