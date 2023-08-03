@@ -4,15 +4,12 @@ body, h1, h2, h3, p, ul, li, form, input, textarea, button {
     padding: 0;
     box-sizing: border-box;
     font-family: Gill Sans, sans-serif;
-  }
-
-  p {
     line-height: 32px;
-
     &:not(:last-child)  {
         margin-bottom: 30px;
     }
   }
+
   
   /* Set up page structure */
   header {
