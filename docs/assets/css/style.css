@@ -1,5 +1,5 @@
 /* Reset default browser styles */
-body, h1, h2, h3, ul, li, form, input, textarea, button {
+body, h1, h2, h3, form, input, textarea, button {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -7,13 +7,16 @@ body, h1, h2, h3, ul, li, form, input, textarea, button {
   }
 
   p {
-    line-height: 25px;  
+    line-height: 20px;  
     margin: 15px 0;
     padding: 0;
     box-sizing: border-box;
     text-align: justify;
   }
 
+  ul, li {
+    list-style-type: circle;
+  }
   
   /* Set up page structure */
   header {
