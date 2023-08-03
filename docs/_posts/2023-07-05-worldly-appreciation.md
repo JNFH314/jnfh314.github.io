@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Worldy Appreciation"
+title:  "Worldly Appreciation"
 date:   2023-07-05
 categories: jekyll update
 image: /assets/images/world.jpg
