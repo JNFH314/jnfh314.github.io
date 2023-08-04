@@ -3,7 +3,7 @@ layout: post
 title: "Exercising, Self-Acceptance, and Exercising Self-Acceptance"
 date: 2023-05-06
 categories: jekyll update
-image: /assets/images/background.jpg
+image: /assets/images/exercise.jpg
 author: Jennifer Huang
 ---
 Struggling through 10 seemingly-eternal minutes of squat variations—plié squats, sumo squats, narrow squats, wall squats, squats with your toes raised—when your legs feel like they’re on fire is difficult, to say the least. It’s even more so to be enthusiastic about it. Yet, YouTuber and entrepreneur Cassey Ho somehow manages to do just that as an online Pilates instructor: her infectious positivity and encouraging words seep through the screen as she leads viewers through some of the most intense workouts a human body could ever experience. 
